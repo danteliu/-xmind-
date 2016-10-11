@@ -1,0 +1,2 @@
+/Users/mac/Library/Developer/Xcode/DerivedData/签到功能-aoaooujqukjhjdezqcazjaxxzfyp/Build/Products/Debug-iphonesimulator/签到功能.app
+
